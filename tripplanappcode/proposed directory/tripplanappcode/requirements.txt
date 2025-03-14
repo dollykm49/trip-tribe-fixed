@@ -1,0 +1,8 @@
+FastAPI
+SQLAlchemy
+pydantic
+uvicorn
+alembic
+python-dotenv
+pytest
+httpx
